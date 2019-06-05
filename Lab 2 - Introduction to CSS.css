@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 46px;
+    color: #083a96;
+    text-align: center;
+    text-shadow: 3px 2px #bbcdf0
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: #083a96;
+    text-indent: 20px;
+}
+
+li{
+    font-size: 16px;
+}
+
+img{
+    float: right;
+    margin: 0 15px 0 15px;
+}
+
+li{
+    font-size: 22px;
+    line-height: 1.2;
+    margin: 10px 0;
+}
+
+ul li{
+    text-transform: capitalize;
+}
+
+#subheading{
+    font-size: 22px;
+    font-family: cursive;
+    text-align: center;
+    direction: inherit;
+}
+
+.instheading{
+    text-indent: 20px;
+    font-size: 22px;
+}
